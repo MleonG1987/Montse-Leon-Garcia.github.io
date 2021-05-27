@@ -43,7 +43,7 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-  patreon: DeanAttali
+  #patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -60,7 +60,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+ORCID: 0000-0001-8567-4685
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
